@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.products-container {
+  height: 90vh;
+  width: 100%;
+  background-color: #ffffff;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.products-img {
+  height: 200px;
+  width: 190px;
+}
